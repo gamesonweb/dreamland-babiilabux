@@ -9,4 +9,7 @@ Etablissement et parcours d'origine : L3 MIAGE Université de Toulouse (ancienne
 Lien vers le repo (car +100 Mo) 
 https://github.com/babiilabux/Oneirophobia.git
 
+Lien vers la vidéo de présentation du jeu : 
+https://youtu.be/Hp4nPRhJo1o
+
 
